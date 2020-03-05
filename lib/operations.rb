@@ -4,6 +4,7 @@
 # if your speed is > 60 OR your speed is < 40, say true
 #otherwiese, say false
 
+
 def unsafe?(speed)
 if speed > 60 || speed < 40
   return true
@@ -15,8 +16,12 @@ end
 
 
 def not_safe?(speed)
-	
-end
+	if speed < 40 || speed > 60 
+	  return true
+	else 
+	  return false
+	end
+	end
 	
 
 
