@@ -1,4 +1,4 @@
-#INPUTS
+#INPUTS --> speed --> miles per hour
 #OUTPUTS
 
 
