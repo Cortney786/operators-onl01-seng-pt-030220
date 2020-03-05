@@ -4,10 +4,11 @@
 # if your speed is < 40, say true
 # if your speed is > 60, say true
 
-# if your speed is 
+# if your speed is > 60 OR your speed is < 40, say true
+#otherwiese, say false
 
 def unsafe?(speed)
-if = > 40 || or > 60
+if spee > 60 || < 40
 end
 
 
