@@ -1,4 +1,5 @@
-
+#INPUTS
+#OUTPUTS
 
 
 def unsafe?(speed)
