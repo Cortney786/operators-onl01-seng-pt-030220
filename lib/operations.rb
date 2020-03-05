@@ -1,5 +1,5 @@
-#INPUTS --> speed --> miles per hour
-#OUTPUTS
+##INPUTS --> speed --> number
+##OUTPUTS --> answer the question am I unsafe
 
 
 def unsafe?(speed)
